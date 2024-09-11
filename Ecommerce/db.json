@@ -1,0 +1,33 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Fone de Ouvido",
+        "price": "R$88,59",
+        "image": "Images/headphone collection/01.png",
+        "category": "headphone"
+      },
+      {
+        "id": 2,
+        "name": "Notebook c23",
+        "price": "R$1.599,99",
+        "image": "Images/laptop collection/01.png",
+        "category": "laptop"
+      },
+      {
+        "id": 3,
+        "name": "Iphone Rose",
+        "price": "R$3.299,99",
+        "image": "Images/mobile collection/01.png",
+        "category": "mobile"
+      },
+      {
+        "id": 4,
+        "name": "Smartwatch k5",
+        "price": "R$399,99",
+        "image": "Images/smartwatch collection/01.png",
+        "category": "smartwatch"
+      }
+    ]
+  }
+  
